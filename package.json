@@ -1,0 +1,16 @@
+{
+  "name": "cycle-iteration",
+  "version": "1.0.0",
+  "description": "JavaScript library for cycle iteration array, collection, etc...",
+  "main": "dist/cycle-iterator.npm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenQ/cycle-iteration.git"
+  },
+  "author": "Denis Ivanov <denquick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenQ/cycle-iteration/issues"
+  },
+  "homepage": "https://github.com/DenQ/cycle-iteration#readme"
+}
